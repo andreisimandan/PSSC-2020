@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0\CreateProfileCmd.rRA+hktF.generated.cs
+obj\Debug\netstandard2.0\CreateProfileResult.FvfNodGV.generated.cs
